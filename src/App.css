@@ -1,3 +1,13 @@
+body {
+  background-color: black; /* Dark gray background */
+  padding: 0%;
+  color:white;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+  top: 0;
+}
+
 .App {
   text-align: center;
 }
@@ -14,7 +24,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #1f1f1f; /* Dark gray background */
   min-height: 100vh;
   display: flex;
   flex-direction: column;

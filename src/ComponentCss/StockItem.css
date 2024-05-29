@@ -1,0 +1,26 @@
+.stock-item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+    width: 200px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+  
+  .stock-item h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .stock-item p {
+    margin: 5px 0;
+  }
+  
+  .stock-item a {
+    display: block;
+    margin: 5px 0;
+    color: #007bff;
+    text-decoration: none;
+  }
+  
